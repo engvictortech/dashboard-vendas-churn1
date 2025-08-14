@@ -1,90 +1,44 @@
-# \# Dashboard Interativo no Google Sheets – Vendas, Receita e Churn
+# Dashboard Interativo no Google Sheets – Vendas, Receita e Churn
 
-# 
+Este projeto apresenta um **dashboard completo** criado no **Google Sheets** para monitorar indicadores-chave de desempenho (KPIs) de vendas e clientes.
 
-# Este projeto apresenta um \*\*dashboard completo\*\* criado no \*\*Google Sheets\*\* para monitorar indicadores-chave de desempenho (KPIs) de vendas e clientes.
+## Funcionalidades
 
-# 
+- Gráfico de linha para evolução mensal de **Vendas** e **Receita**
+- Gráfico de colunas para comparação entre **Clientes Ativos** e **Clientes Churn**
+- KPIs automáticos:
+  - Total de vendas no período
+  - Média mensal de vendas
+  - Total de clientes churn
+  - Taxa média de churn
+- Dashboard organizado em aba exclusiva para visualização rápida
 
-# \## Funcionalidades
+## Como Usar
 
-# 
+1. Abra a planilha no Google Sheets ou Excel
+2. Atualize os dados com seus números reais
+3. Visualize os gráficos e KPIs que se atualizam automaticamente
 
-# \- Gráfico de linha para evolução mensal de \*\*Vendas\*\* e \*\*Receita\*\*
+## Tecnologias
 
-# \- Gráfico de colunas para comparação entre \*\*Clientes Ativos\*\* e \*\*Clientes Churn\*\*
+- Google Sheets
+- Fórmulas de cálculo e análise de dados
+- Gráficos interativos
 
-# \- KPIs automáticos:
+## Estrutura do Projeto
 
-# &nbsp; - Total de vendas no período
+/dashboard-vendas-churn  
+│  
+├── README.md  
+├── dashboard-vendas-churn.xlsx  
+├── .gitignore  
+├── /images  
+│   ├── dashboard-exemplo1.png  
+│   └── dashboard-exemplo2.png  
 
-# &nbsp; - Média mensal de vendas
+## Imagens do Dashboard
 
-# &nbsp; - Total de clientes churn
+![Dashboard Vendas e Receita](./images/dashboard-exemplo1.png)  
+![Dashboard Clientes Ativos vs Churn](./images/dashboard-exemplo2.png)  
 
-# &nbsp; - Taxa média de churn
-
-# \- Dashboard organizado em aba exclusiva para visualização rápida
-
-# 
-
-# \## Como Usar
-
-# 
-
-# 1\. Abra a planilha no Google Sheets ou Excel
-
-# 2\. Atualize os dados com seus números reais
-
-# 3\. Visualize os gráficos e KPIs que se atualizam automaticamente
-
-# 
-
-# \## Tecnologias
-
-# 
-
-# \- Google Sheets
-
-# \- Fórmulas de cálculo e análise de dados
-
-# \- Gráficos interativos
-
-# 
-
-# \## Estrutura do Projeto
-
-# 
-
-# /dashboard-vendas-churn
-
-# │
-
-# ├── README.md
-
-# ├── dashboard-vendas-churn.xlsx
-
-# ├── .gitignore
-
-# ├── /images
-
-# │ ├── dashboard-exemplo1.png
-
-# │ └── dashboard-exemplo2.png
-
-# 
-
-# \## Imagens do Dashboard
-
-# 
-
-# !\[Dashboard Vendas e Receita](./images/dashboard-exemplo1.png)
-
-# !\[Dashboard Clientes Ativos vs Churn](./images/dashboard-exemplo2.png)
-
-# 
-
-# 🔗 Link da planilha no Google Sheets: \[insira o link aqui]
-
-n
-
+🔗 Link da planilha no Google Sheets: [insira o link aqui]
