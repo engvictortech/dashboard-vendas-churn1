@@ -41,4 +41,4 @@ Este projeto apresenta um **dashboard completo** criado no **Google Sheets** par
 ![Dashboard Vendas e Receita](./images/dashboard-exemplo1.png)  
 ![Dashboard Clientes Ativos vs Churn](./images/dashboard-exemplo2.png)  
 
-🔗 Link da planilha no Google Sheets: [insira o link aqui]
+🔗 Link da planilha no Google Sheets: [(https://bit.ly/4fES3M8)]
