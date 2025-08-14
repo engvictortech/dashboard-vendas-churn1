@@ -27,18 +27,18 @@ Este projeto apresenta um **dashboard completo** criado no **Google Sheets** par
 
 ## Estrutura do Projeto
 
-/dashboard-vendas-churn
-│
-├── README.md
-├── dashboard-vendas-churn.xlsx
-├── .gitignore
-├── /images
-│ ├── grafico_vendas_receita.png
-│ └── grafico_clientes_churn.png
+/dashboard-vendas-churn  
+│  
+├── README.md  
+├── dashboard-vendas-churn.xlsx  
+├── .gitignore  
+├── /images  
+│   ├── grafico_vendas_receita.png  
+│   └── grafico_clientes_churn.png  
 
 ## Imagens do Dashboard
 
-![Dashboard Vendas e Receita](grafico_vendas_receita.png)
-![Dashboard Clientes Ativos vs Churn](grafico_clientes_churn.png)
+![Dashboard Vendas e Receita](./images/grafico_vendas_receita.png)  
+![Dashboard Clientes Ativos vs Churn](./images/grafico_clientes_churn.png)  
 
-🔗 Link da planilha no Google Sheets: [https://bit.ly/4fES3M8]
+🔗 Link da planilha no Google Sheets: [insira o link aqui]
