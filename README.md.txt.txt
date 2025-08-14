@@ -33,8 +33,8 @@ Este projeto apresenta um **dashboard completo** criado no **Google Sheets** par
 ├── dashboard-vendas-churn.xlsx
 ├── .gitignore
 ├── /images
-│ ├── dashboard-exemplo1.png
-│ └── dashboard-exemplo2.png
+│ ├── grafico_vendas_receita.png
+│ └── grafico_clientes_churn.png
 
 ## Imagens do Dashboard
 
