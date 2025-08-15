@@ -21,8 +21,8 @@ Ideal para quem deseja monitorar vendas, receitas e churn de forma prática e vi
 ## 📁 Estrutura do Repositório
 
 dashboard-vendas-churn1/
-├─ README.md
 
+├─ README.md
 ├─ data/
 │ └─ vendas_clientes.xlsx
 ├─ dashboards/
