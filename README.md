@@ -60,8 +60,8 @@ dashboard-vendas-churn1/
 ## 🖼 Imagens do Dashboard
 ![Dashboard Vendas e Receita](images/grafico_vendas_receita.png)  
 ![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
-![Dashboard Power BI](images/dashboard_powerbi.png)  
-
+![Dashboard Power BI](images/dashboard_powerbi.png)
+![Baixar o Power BI](powerbi/dashboard-vendas-churn1.pbix)
 🔗 Link da planilha no Google Sheets: [https://bit.ly/4mfRGtM]
 
 📌 Nota  
