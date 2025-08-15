@@ -39,6 +39,7 @@ dashboard-vendas-churn1/
 └─ dashboard-vendas-churn1.pbix
 
 ## 💻 Power BI
+
 ### Como abrir
 1. [Baixar o Power BI Dashboard](powerbi/dashboard-vendas-churn1.pbix)  
 2. Abra no **Power BI Desktop** (versão recente recomendada)
@@ -50,6 +51,10 @@ dashboard-vendas-churn1/
 ### Observações
 - O relatório usa o tema padrão do Power BI  
 - Alterações manuais em cores ou visuais não afetam os demais gráficos
+
+### Imagem do Dashboard
+![Dashboard Power BI](images/dashboard_powerbi.png)
+
 
 ## ✨ Benefícios
 - ✅ Visualização clara de métricas essenciais  
