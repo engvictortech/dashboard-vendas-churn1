@@ -23,15 +23,25 @@ Ideal para quem deseja monitorar vendas, receitas e churn de forma prática e vi
 dashboard-vendas-churn1/
 
 ├─ README.md
+
 ├─ data/
+
 │ └─ vendas_clientes.xlsx
+
 ├─ dashboards/
+
 │ └─ dashboard_vendas.pdf
+
 ├─ scripts/
+
 │ └─ calculos_kpi.md
+
 ├─ reports/
+
 │ └─ analise_performance.pdf
+
 ├─ images/
+
 │ ├─ grafico_linhas.png
 │ ├─ grafico_colunas.png
 │ ├─ grafico_pizza.png
