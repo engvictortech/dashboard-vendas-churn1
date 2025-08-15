@@ -1,58 +1,42 @@
 # 📊 Dashboard Vendas & Churn – Projeto Interativo
 
----
-
 ## 🚀 Sobre o Projeto
-Transformamos dados brutos em **insights estratégicos**!  
-Este projeto apresenta **dashboards interativos**, **KPIs automatizados** e **relatórios claros**, permitindo que gestores e analistas tomem decisões rápidas e assertivas.  
+Transformamos dados brutos em insights estratégicos!  
+Este projeto apresenta dashboards interativos, KPIs automatizados e relatórios claros, permitindo que gestores e analistas tomem decisões rápidas e assertivas.  
 
-Ideal para quem deseja **monitorar vendas, receita e churn** de forma prática e visual.
-
----
+Ideal para quem deseja monitorar vendas, receitas e churn de forma prática e visual.
 
 ## 🎯 Objetivos
-- 📈 Acompanhar **vendas e receita** mês a mês.  
-- 👥 Monitorar **clientes ativos** e **churn**.  
-- ⚡ Avaliar KPIs de **performance de vendas**.  
-- 🎨 Criar dashboards claros, impactantes e fáceis de interpretar.  
-
----
+- 📈 Acompanhar vendas e receitas mês a mês.  
+- 👥 Monitorar clientes ativos e churn.  
+- ⚡ Avaliar KPIs de desempenho de vendas.  
+- 🎨 Criar painéis claros, impactantes e simples de interpretar.
 
 ## 🛠 Tecnologias & Ferramentas
-- **Excel / Google Sheets** – Organização de dados e cálculo de KPIs  
+- **Excel / Planilhas Google** – Organização de dados e design de KPIs  
 - **Power BI Desktop** – Visualização interativa e relatórios dinâmicos  
-- **PDF / PNG** – Exportação de dashboards e gráficos  
+- **PDF / PNG** – Exportação de painéis e gráficos  
 - **GitHub** – Versionamento e apresentação profissional do projeto
-
----
 
 ## 📁 Estrutura do Repositório
 
 dashboard-vendas-churn1/
-│
 ├─ README.md
 ├─ data/
-│ └─ vendas_clientes.xlsx # Base de dados
+│ └─ vendas_clientes.xlsx
 ├─ dashboards/
-│ └─ dashboard_vendas.pdf # Exportação em PDF
+│ └─ dashboard_vendas.pdf
 ├─ scripts/
-│ └─ calculos_kpi.md # Explicações de fórmulas e KPIs
+│ └─ calculos_kpi.md
 ├─ reports/
-│ └─ analise_performance.pdf # Relatórios e insights
+│ └─ analise_performance.pdf
 ├─ images/
 │ ├─ grafico_linhas.png
 │ ├─ grafico_colunas.png
-│ └─ grafico_pizza.png
+│ ├─ grafico_pizza.png
+│ └─ dashboard_powerbi.png
 └─ powerbi/
-└─ dashboard-vendas-churn1.pbix # Relatório interativo Power BI
-
-yaml
-Copiar
-Editar
-
-Clique nos links acima para navegar diretamente nas pastas do projeto no GitHub.
-
----
+└─ dashboard-vendas-churn1.pbix
 
 ## 💻 Power BI
 ### Como abrir
@@ -60,14 +44,12 @@ Clique nos links acima para navegar diretamente nas pastas do projeto no GitHub.
 2. Abra no **Power BI Desktop** (versão recente recomendada)
 
 ### Exportações (opcional)
-- Para pré-visualização, exporte como **PDF** ou **PNG**  
-- Salve como `powerbi/relatorio_powerbi.pdf` ou `powerbi/relatorio_powerbi.png`
+- Para pré-visualização, exporte como PDF ou PNG  
+- Salve como `powerbi/relatorio_powerbi.pdf` e/ou `powerbi/relatorio_powerbi.png`
 
 ### Observações
-- O relatório usa o tema **padrão do Power BI**  
+- O relatório usa o tema padrão do Power BI  
 - Alterações manuais em cores ou visuais não afetam os demais gráficos
-
----
 
 ## ✨ Benefícios
 - ✅ Visualização clara de métricas essenciais  
@@ -75,9 +57,13 @@ Clique nos links acima para navegar diretamente nas pastas do projeto no GitHub.
 - ✅ Fácil compartilhamento com a equipe  
 - ✅ Projeto pronto para apresentação a gestores ou clientes
 
----
+## 🖼 Imagens do Dashboard
+![Dashboard Vendas e Receita](images/grafico_vendas_receita.png)  
+![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
+![Dashboard Power BI](images/dashboard_powerbi.png)  
 
-## 📌 Nota
-Este repositório é uma **demonstração profissional** de análise de dados e dashboards interativos,
+🔗 Link da planilha no Google Sheets: [https://bit.ly/4mfRGtM]
 
+📌 Nota  
+Este repositório é uma demonstração profissional de análise de dados e dashboards interativos, ideal para portfólio ou apresentação corporativa.
 
