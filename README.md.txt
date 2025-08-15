@@ -45,7 +45,7 @@ dashboard-vendas-churn1/
 Abra no **Power BI Desktop** (versão recente recomendada)
 
 ### Exportações (opcional)
-- Para pré-visualização, exporte como PDF ou PNG  
+Para pré-visualização, você pode exportar como PDF ou PNG:  
 - Salve como `powerbi/relatorio_powerbi.pdf` e/ou `powerbi/relatorio_powerbi.png`
 
 ### Observações
@@ -67,7 +67,7 @@ Abra no **Power BI Desktop** (versão recente recomendada)
 ![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
 ![Dashboard Power BI](images/dashboard_powerbi.png) 
 
-🔗 Link da planilha no Google Sheets: [https://bit.ly/4mfRGtM]
+🔗 [Link da planilha no Google Sheets](https://bit.ly/4mfRGtM)
 
 📌 Nota  
 Este repositório é uma demonstração profissional de análise de dados e dashboards interativos, ideal para portfólio ou apresentação corporativa.
