@@ -67,7 +67,7 @@ Para pré-visualização, você pode exportar como PDF ou PNG:
 ![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
 ![Dashboard Power BI](images/dashboard_powerbi.png) 
 
-🔗 [Link da planilha no Google Sheets](https://bit.ly/4mfRGtM)
+🔗 [Link da planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1-Za4L6qdfn-9oKUnzzgsvc8Y6RVUXrGaua5ne9--6b4/edit?gid=0#gid=0)
 
 📌 Nota  
 Este repositório é uma demonstração profissional de análise de dados e dashboards interativos, ideal para portfólio ou apresentação corporativa.
