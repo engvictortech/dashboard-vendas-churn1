@@ -65,7 +65,7 @@ Para pré-visualização, você pode exportar como PDF ou PNG:
 ## 🖼 Imagens do Dashboard
 ![Dashboard Vendas e Receita](images/grafico_vendas_receita.png)  
 ![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
-![Dashboard Power BI](images/dashboard_powerbi.png) 
+
 
 🔗 [Link da planilha no Google Sheets](https://docs.google.com/spreadsheets/d/1-Za4L6qdfn-9oKUnzzgsvc8Y6RVUXrGaua5ne9--6b4/edit?gid=0#gid=0)
 
