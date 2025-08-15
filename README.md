@@ -43,10 +43,15 @@ dashboard-vendas-churn1/
 ├─ images/
 
 │ ├─ grafico_linhas.png
+
 │ ├─ grafico_colunas.png
+
 │ ├─ grafico_pizza.png
+
 │ └─ dashboard_powerbi.png
+
 └─ powerbi/
+
 └─ dashboard-vendas-churn1.pbix
 
 ## 💻 Power BI
@@ -72,7 +77,7 @@ dashboard-vendas-churn1/
 ![Dashboard Vendas e Receita](images/grafico_vendas_receita.png)  
 ![Dashboard Clientes Ativos vs Churn](images/grafico_clientes_churn.png)  
 ![Dashboard Power BI](images/dashboard_powerbi.png)
-![Baixar o Power BI](powerbi/dashboard-vendas-churn1.pbix)
+🔗[Baixar o Power BI](powerbi/dashboard-vendas-churn1.pbix)
 🔗 Link da planilha no Google Sheets: [[https://bit.ly/4mfRGtM](https://docs.google.com/spreadsheets/d/1-Za4L6qdfn-9oKUnzzgsvc8Y6RVUXrGaua5ne9--6b4/edit?gid=0#gid=0)]
 
 📌 Nota  
