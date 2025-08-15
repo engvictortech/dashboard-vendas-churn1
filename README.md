@@ -1,4 +1,4 @@
-# 📊 Dashboard Vendas & Churn – Projeto Interativo
+📊 "Dashboard Interativo – Vendas, Receita e Churn (Google Sheets & Power BI)"
 
 ## 🚀 Sobre o Projeto
 Transformamos dados brutos em insights estratégicos!  
